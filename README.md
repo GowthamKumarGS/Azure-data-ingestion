@@ -13,4 +13,7 @@ This project demonstrates an automated, parameterized approach to data ingestion
 - **Documentation/**: Contains detailed documentation of each pipeline step.
 - **Code/**: JSON definition of the dynamic data ingestion pipeline.
 
+<img width="1088" alt="Ingestion_Architecture" src="https://github.com/user-attachments/assets/118e9cc0-1564-48da-bf47-b76d13dc55e8">
+
+
 
