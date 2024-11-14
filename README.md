@@ -32,6 +32,3 @@ This project demonstrates an automated, parameterized approach to data ingestion
    - **Expressions**: `@pipeline().parameters.serverName` and `@pipeline().parameters.databaseName`
    - **Explanation**: These values are pulled from pipeline parameters, allowing the linked service to dynamically connect to different servers and databases at runtime.
 
----
-
-Including these screenshots and parameter explanations will provide a clear, end-to-end understanding of your dynamic pipeline process. Let me know if you need any more specific details!
